@@ -1,0 +1,1 @@
+select count(distinct order_id) as order_volume from online_sales_sample;

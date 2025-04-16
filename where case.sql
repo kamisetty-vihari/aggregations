@@ -1,0 +1,1 @@
+select * from online_sales_sample where order_date between '2024-01-01' and '2024-12-31';
